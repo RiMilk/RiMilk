@@ -6,7 +6,7 @@ I'm interested in 💻 C++ 📌 Work with graphics 💡 Computer vision 🎮 Gam
 
 Now I understand that I'm not a super cool developer yet, but I'm tired of sitting idle, so now I'm improving my skills and developing every day.
 
-From what I use: C++, OpenCV, OpenGL, QT, Python.
+I use: C++, OpenCV, OpenGL, QT, Python.
 
 Also:
 * I enjoy playing chess.

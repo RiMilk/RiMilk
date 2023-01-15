@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I'm interested in 💻 C++ 📌 Graphics work 🔎 Computer vision 🎮 Game development
+I am a C++ developer from FSUE SPE GAMMA, Moscow
 
-I'm currently working as a C++ developer at FGUP SPE GAMMA in Moscow 
+I'm interested in 💻 C++ 📌 Work with graphics 💡 Computer vision 🎮 Game development.
 
-In my spare time I study image processing, work on my projects.
+Now I understand that I'm not a super cool developer yet, but I'm tired of sitting idle, so now I'm improving my skills and developing every day.
+
+From what I use: C++, OpenCV, OpenGL, QT, Python.
 
 Also:
 * I enjoy playing chess.

@@ -2,9 +2,7 @@
 
 I'm interested in 💻 C++ 📌 Graphics work 🔎 Computer vision 🎮 Game development
 
-I'm currently working as a C++ developer at FGUP SPE GAMMA in Moscow
-
-My plans are to move to Saint-Petersburg and improve my skills. 
+I'm currently working as a C++ developer at FGUP SPE GAMMA in Moscow 
 
 In my spare time I study image processing, work on my projects.
 

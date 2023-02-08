@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a C++ developer from FSUE SPE GAMMA, Moscow
+I am a C++ developer from St. Petersburg
 
 I'm interested in 💻 C++ 📌 Work with graphics 💡 Computer vision 🎮 Game development.
 

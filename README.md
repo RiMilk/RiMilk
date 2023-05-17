@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=600&color=00FFFF&width=800&lines=Hi%2C+my+name+is+Kate;Im+a+Cpp+developer+from+Saint-Petersburg%2C+Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=600&color=00FFFF&width=800&lines=Hi%2C+my+name+is+Kate;I`m+a+Cpp+developer+from+Saint-Petersburg%2C+Russia)](https://git.io/typing-svg)
